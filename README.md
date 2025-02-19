@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhubura
-- 👀 I’m interested in web designing
+- 👀 I’m interested in web designing and development
 - 🌱 I’m currently learning courses like Fullstack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dm
